@@ -1,0 +1,875 @@
+msgid "Dashboard"
+msgstr "Tabloul de bord"
+
+msgid "Categories"
+msgstr "Categorii"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Configuration"
+msgstr "Configurare"
+
+msgid "Prices"
+msgstr "Preturi"
+
+msgid "Category Map"
+msgstr "Harta categoriei"
+
+msgid "Characteristics Map"
+msgstr "Harta caracteristicilor"
+
+msgid "Family Map"
+msgstr "Harta familiei"
+
+msgid "Excludes"
+msgstr "Exclude"
+
+msgid "Logs"
+msgstr "Loguri"
+
+msgid "Help"
+msgstr "Ajutor"
+
+msgid "Send to eMag"
+msgstr "Trimite la eMag"
+
+msgid "Cannot add in Send to eMag queue whilst the sending to eMag process is running"
+msgstr "Nu se poate adauga in coada Trimitere la eMag in timp ce procesul de trimitere catre eMag ruleaza"
+
+msgid "Added the products in the Send to eMag queue, continue the process in"
+msgstr "S-au adaugat produsele in coada Trimiteti la eMag, continuati procesul in"
+
+msgid "Bizzmagsmarketplace Dashboard"
+msgstr "Tabloul de bord Bizzmagsmarketplace"
+
+msgid "Here you can link products with Emag categories, firstly click the link to open a new page in your browser (you need to be logged in the Emag marketplace dashboard), then paste the content in the textarea and save, these are the category suggestions that we will use in the Category tab"
+msgstr "Aici puteti lega produse cu categorii Emag, mai intai faceti clic pe link pentru a deschide o pagina noua in browser (trebuie sa fiti autentificat in tabloul de bord Emag marketplace), apoi lipiti continutul in zona de text si salvati, acestea sunt sugestiile de categorii care vom folosi in fila Categorie"
+
+msgid "Total linked"
+msgstr "Total conectat"
+
+msgid "Total missing"
+msgstr "Lipsa totala"
+
+msgid "Save Pro"
+msgstr ""
+
+msgid "Please set up the credentials first"
+msgstr "Va rugam sa configurati mai intai acreditarile"
+
+msgid "Here you can map eMag categories with WC product categories, this map is not used for the products CSV Feed, it is used only for sending products via the eMag API"
+msgstr "Aici puteti mapa categorii eMag cu categorii de produse WC, aceasta harta nu este utilizata pentru produsele CSV Feed, este folosita numai pentru trimiterea produselor prin API-ul eMag"
+
+msgid "WC ID"
+msgstr "ID WC"
+
+msgid "WC Category"
+msgstr "Categoria WC"
+
+msgid "eMag ID"
+msgstr ""
+
+msgid "eMag Category"
+msgstr "Categoria eMag"
+
+msgid "Access"
+msgstr "Acces"
+
+msgid "Edit"
+msgstr "Editare"
+
+msgid "No records"
+msgstr "Fara inregistrari"
+
+msgid "Search WC category"
+msgstr "Cauta categoria WC"
+
+msgid "Please type at least 3 characters"
+msgstr "Va rugam sa introduceti cel putin 3 caractere"
+
+msgid "searching"
+msgstr "cautand"
+
+msgid "Something is wrong, did you select a pair of categories"
+msgstr "Ceva nu este in regula, ati selectat o pereche de categorii"
+
+msgid "Results found"
+msgstr "Rezultate gasite"
+
+msgid "Remove Category map"
+msgstr "Eliminati harta categoriei"
+
+msgid "Here you can select which category to assign to a product, if you do not have access to a category click on the category link and a new page opens in a new tab showing if you requested access to the category, or if already have access, if you get the message that no direct access is allowed just close the tab and try again"
+msgstr "Aici puteti selecta ce categorie sa atribuiti unui produs, daca nu aveti acces la o categorie faceti clic pe link-ul categoriei si se deschide o noua pagina intr-o fila noua care arata daca ati solicitat acces la categorie sau daca aveti deja acces, daca primiti mesajul ca nu este permis accesul direct, inchideti fila si incercati din nou"
+
+msgid "Show allowed only"
+msgstr "Se permite doar spectacol"
+
+msgid "Pro"
+msgstr ""
+
+msgid "Only Later"
+msgstr "Numai mai tarziu"
+
+msgid "Limit records to"
+msgstr "Limitati inregistrarile la"
+
+msgid "Product"
+msgstr "Produs"
+
+msgid "Emag Category"
+msgstr "Categoria Emag"
+
+msgid "Emag Full Category"
+msgstr ""
+
+msgid "Skip Product/Category"
+msgstr "Omite produs/categorie"
+
+msgid "Later"
+msgstr "Mai tarziu"
+
+msgid " (Demo)"
+msgstr ""
+
+msgid "No"
+msgstr "Nu"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "No Records"
+msgstr "Fara inregistrari"
+
+msgid "Save Products for sending to Emag Pro"
+msgstr "Salvati Produse pentru a le trimite catre Emag Pro"
+
+msgid "Here you can map eMag characteristics with WC product attributes, this map is not used for the products CSV Feed, it is used only for sending products via the eMag API"
+msgstr "Aici puteti mapa caracteristicile eMag cu atributele produselor WC, aceasta harta nu este utilizata pentru fluxul CSV al produselor, este folosita numai pentru trimiterea produselor prin API-ul eMag"
+
+msgid "Map attributes with characteristics by name"
+msgstr "Atributele hartii cu caracteristici dupa nume"
+
+msgid "Load defaults"
+msgstr "Incarcati valorile implicite"
+
+msgid "eMag Characteristic"
+msgstr "eMag Caracteristica"
+
+msgid "Toggle Optional"
+msgstr "Comutare Optional"
+
+msgid "Search"
+msgstr "Cautare"
+
+msgid "WC Attribute"
+msgstr "Atribut WC"
+
+msgid "Save"
+msgstr "Salveaza"
+
+msgid "Something is wrong, did not receive all data"
+msgstr "Ceva este in neregula, nu am primit toate datele"
+
+msgid "Here you can configure how the system works"
+msgstr "Aici puteti configura modul in care functioneaza sistemul"
+
+msgid "Rest API Feed url"
+msgstr "Adresa URL a feedului API Rest"
+
+msgid "Rest API Feed Update url"
+msgstr "Adresa URL de actualizare a fluxului API Rest"
+
+msgid "Rest API New Emag Order"
+msgstr ""
+
+msgid "Rest API Cancelled Emag Order"
+msgstr "Rest API a anulat comanda Emag"
+
+msgid "Settings updated, reloading page"
+msgstr "Setari actualizate, pagina de reincarcare"
+
+msgid "Settings updated"
+msgstr "Setari actualizate"
+
+msgid "please reload the page"
+msgstr "va rugam sa reincarcati pagina"
+
+msgid "loading"
+msgstr "incarcare"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "EAN"
+msgstr ""
+
+msgid "Size"
+msgstr "Dimensiune"
+
+msgid "Please note that sending products to eMag is live now"
+msgstr "Va rugam sa retineti ca trimiterea produselor catre eMag este live acum"
+
+msgid "Load Emag Vat rates"
+msgstr "Incarcare tarife Emag Vat"
+
+msgid "Select your Vat rate"
+msgstr "Selectati rata de TVA"
+
+msgid "Please load Vat rates"
+msgstr "Va rugam sa incarcati cotele de TVA"
+
+msgid "Current Vat rate"
+msgstr "Cota actuala de TVA"
+
+msgid "Load Emag Handling times"
+msgstr ""
+
+msgid "Select Handling time"
+msgstr "Selectati Timp de manipulare"
+
+msgid "Please load Handling times"
+msgstr "Va rugam sa incarcati timpii de manipulare"
+
+msgid "Current Handling time"
+msgstr "Timp de manipulare curent"
+
+msgid "days"
+msgstr "zile"
+
+msgid "Resupply days"
+msgstr "Zile de aprovizionare"
+
+msgid "Warranty months"
+msgstr "Luni de garantie"
+
+msgid "Inactive"
+msgstr "Inactiv"
+
+msgid "Active"
+msgstr "Activ"
+
+msgid "Emag product price alteration"
+msgstr "Modificarea pretului produsului Emag"
+
+msgid "Addition"
+msgstr "Adaugare"
+
+msgid "Percent"
+msgstr "La suta"
+
+msgid "Percent Excluded in WC price (exc. VAT)"
+msgstr "Procent exclus din pretul WC (fara TVA)"
+
+msgid "Emag max commission"
+msgstr "Comision maxim Emag"
+
+msgid "Commission VAT"
+msgstr "Comision TVA"
+
+msgid "Use Emag Commission"
+msgstr "Utilizati Comisia Emag"
+
+msgid "Add"
+msgstr "Adaugati"
+
+msgid "percent"
+msgstr "la suta"
+
+msgid "before the commissions"
+msgstr "inaintea comisiilor"
+
+msgid "Add a extra price here, it could be your VAT if you have the prices exclisive of tax WC"
+msgstr "Adaugati un pret suplimentar aici, ar putea fi TVA-ul dvs. daca aveti preturi fara taxe WC"
+
+msgid "Initial price 100"
+msgstr "Pret initial 100"
+
+msgid "Price simulator"
+msgstr "Simulator de pret"
+
+msgid "WC prices used exclude VAT"
+msgstr "Preturile pentru WC utilizate nu includ TVA"
+
+msgid "Min Sale Price(%)"
+msgstr "Pret minim de vanzare (%)"
+
+msgid "Max Sale Price(%)"
+msgstr "Pret maxim de vanzare (%)"
+
+msgid "Recommended Price(%)"
+msgstr "Pret recomandat(%)"
+
+msgid "Sync product commission"
+msgstr "Comision produs de sincronizare"
+
+msgid "Set to yes when you get access to new categories or if category commissions change"
+msgstr "Setati la da cand obtineti acces la categorii noi sau daca se modifica comisioanele de categorie"
+
+msgid "Batch import products"
+msgstr "Produse de import in loturi"
+
+msgid "Batch limit"
+msgstr "Limita lot"
+
+msgid "Set to yes when you want to import products in batches if your hosting does not allow a long execution time"
+msgstr "Setati la da cand doriti sa importati produse in loturi daca gazduirea dvs. nu permite un timp de executie lung"
+
+msgid "Batch send to eMag"
+msgstr "Trimitere lot catre eMag"
+
+msgid "Set to yes when you want to send products to eMag in batches if your hosting does not allow a long execution time"
+msgstr "Setati la da cand doriti sa trimiteti produse catre eMag in loturi daca gazduirea dvs. nu permite un timp de executie lung"
+
+msgid "Order import state"
+msgstr "Stare importul comenzii"
+
+msgid "Emag Order ID"
+msgstr "Emag Comanda ID"
+
+msgid "Import Order"
+msgstr "Comanda de import"
+
+msgid "Stock 0 for sku (,)"
+msgstr "Stoc 0 pentru sku (,)"
+
+msgid "Stock 0 for weight bigger than (g)"
+msgstr "Stoc 0 pentru greutate mai mare de (g)"
+
+msgid "Stock 0 for WC price (exc vat) less than"
+msgstr "Stoc 0 pentru pret WC (fara tva) mai mic decat"
+
+msgid "Stock 0 for stock lower than"
+msgstr "Stoc 0 pentru stoc mai mic decat"
+
+msgid "Maximum percent included in WC price that can be subtracted in Prices page to lower Emag price"
+msgstr "Procent maxim inclus in pretul WC care poate fi scazut in pagina Preturi pentru a scadea pretul Emag"
+
+msgid "emag commission + vat on commission"
+msgstr "emag comision tva la comision"
+
+msgid "new emag price"
+msgstr "pret emag nou"
+
+msgid "This is used on prices page to have a limit on how much you can lower a price so you do not end up on loss and can win a BB"
+msgstr "Acest lucru este folosit pe pagina de preturi pentru a avea o limita la cat de mult puteti reduce un pret, astfel incat sa nu ajungeti la pierdere si sa puteti castiga un BB"
+
+msgid "Do not override product data for postmeta (,)"
+msgstr "Nu suprascrieti datele despre produs pentru postmeta (,)"
+
+msgid "Useful when having a dropshipping system and your products get overridden by synchronization with the dropshipper, set here postmetas of products to exclude data override if you are the emag product owner"
+msgstr "Util atunci cand aveti un sistem de dropshipping si produsele dvs. sunt suprasolicitate prin sincronizarea cu dropshipper-ul, setati aici postmeta de produse pentru a exclude suprascrierea datelor daca sunteti proprietarul produsului emag"
+
+msgid "Dropshipping system"
+msgstr "Sistem de dropshipping"
+
+msgid "Import product %"
+msgstr "Import produs %"
+
+msgid "When importing products from emag subtract this percentage from the price (percent included, meaning the price result x .percent set + price result = the price from emag)"
+msgstr "La importul de produse din emag scade acest procent din pret (procent inclus, adica rezultatul pretului x .procent rezultatul pretului setat = pretul de la emag)"
+
+msgid "Carrier price 0 (,)"
+msgstr "Pretul operatorului 0 (,)"
+
+msgid "When importing orders from eMag set 0 cost for the carriers from the textarea"
+msgstr "La importul comenzilor din eMag setati 0 cost pentru transportatorii din zona de text"
+
+msgid "Add eMag negative vouchers"
+msgstr "Adaugati vouchere negative eMag"
+
+msgid "When importing orders from eMag add the negative vouchers to the order"
+msgstr "La importul comenzilor din eMag adaugati voucherele negative la comanda"
+
+msgid "Send to eMag Live"
+msgstr "Trimite la eMag Live"
+
+msgid "Set to yes after you tested the data sent to emag and are happy with it, this is also used for the Pro version when sending/updating products from the product list page bulk action send to emag, on stock update and product save"
+msgstr "Setat pe da dupa ce ati testat datele trimise catre emag si sunteti multumit de ele, acesta este folosit si pentru versiunea Pro atunci cand trimiteti/actualizati produse din pagina cu lista de produse actiune in bloc trimite la emag, pe actualizare stoc si salvare produs"
+
+msgid "Set what image size to send to eMag by category"
+msgstr "Setati dimensiunea imaginii de trimis catre eMag in functie de categorie"
+
+msgid "Save Settings"
+msgstr "Salvare setari"
+
+msgid "This free version of the plugin is used to send/update products to the marketplace, it does not handle product ID conflicts, if you already have products in the marketplace and your local shop has different IDs for products, conflicts may appear where you could override your existing marketplace products, otherwise if you have the same product IDs the plugin will update the products. The paid version of this plugin handles ID conflicts and has many other functions"
+msgstr "Aceasta versiune gratuita a pluginului este utilizata pentru a trimite/actualiza produse pe piata, nu gestioneaza conflictele de ID-uri de produs, daca aveti deja produse pe piata si magazinul dvs. local are ID-uri diferite pentru produse, pot aparea conflicte in care ati putea trece peste. produsele dvs. existente pe piata, altfel, daca aveti aceleasi ID-uri de produs, pluginul va actualiza produsele. Versiunea platita a acestui plugin gestioneaza conflictele de identificare si are multe alte functii"
+
+msgid "Steps for usage:"
+msgstr "Pasi de utilizare:"
+
+msgid "Read the Help page"
+msgstr "Cititi pagina de ajutor"
+
+msgid "Import Categories"
+msgstr "Import Categorii"
+
+msgid "Configure the system"
+msgstr "Configurati sistemul"
+
+msgid "Send products to marketplace"
+msgstr "Trimiteti produse pe piata"
+
+msgid "Get the Pro version of this plugin"
+msgstr "Obtineti versiunea Pro a acestui plugin"
+
+msgid "WooCommerce is not installed or activated, please install or activate it in order to continue"
+msgstr "WooCommerce nu este instalat sau activat, va rugam sa il instalati sau sa il activati pentru a continua"
+
+msgid "PHP version must be at least 7.2"
+msgstr "versiunea PHP trebuie sa fie cel putin 7.2"
+
+msgid "Action Scheduler doesn't seam to be installed, this is required for the cron jobs"
+msgstr "Action Scheduler nu se instaleaza, acest lucru este necesar pentru joburile cron"
+
+msgid "eMag API Endpoint Url"
+msgstr "eMag API Endpoint URL"
+
+msgid "Find the API Endpoint in the API documentation"
+msgstr "Gasiti punctul final API in documentatia API"
+
+msgid "Emag API User"
+msgstr ""
+
+msgid "Emag API Password"
+msgstr "Parola API Emag"
+
+msgid "Remote Emag Categories"
+msgstr "Categorii Emag la distanta"
+
+msgid "As provided by the API"
+msgstr "Asa cum este furnizat de API"
+
+msgid "Check Again"
+msgstr "Verificati din nou"
+
+msgid "Local Emag Categories"
+msgstr "Categorii Emag locale"
+
+msgid "As imported through the API"
+msgstr "Asa cum a fost importat prin API"
+
+msgid "Cancel"
+msgstr "Anuleaza"
+
+msgid "Categories with access"
+msgstr "Categorii cu acces"
+
+msgid "products in queue to Send to eMag"
+msgstr "produse in coada pentru a trimite la eMag"
+
+msgid "Send to eMag Live set to NO, change it to Yes in configuration when ready, read in logs what data is to be sent"
+msgstr "Trimite la eMag Live setat la NU, schimbati-l la Da in configurare cand este gata, cititi in jurnale ce date vor fi trimise"
+
+msgid "Send to eMag Live set to YES"
+msgstr "Send to eMag Live setata la YES"
+
+msgid "Update images"
+msgstr "Actualizeaza imagini"
+
+msgid "Status"
+msgstr "Stare"
+
+msgid "Buy Button 1"
+msgstr "Butonul Cumpara 1"
+
+msgid "Buy Button 2"
+msgstr "Butonul Cumpara 2"
+
+msgid "Buy Button 3"
+msgstr "Butonul Cumpara 3"
+
+msgid "Import Products Pro"
+msgstr ""
+
+msgid "Create missing"
+msgstr "Creeaza lipsa"
+
+msgid "Buy Button Rank Changes from the last import"
+msgstr "Buy Button Rank Modificari de la ultimul import"
+
+msgid "Here you can see what products are excluded (setting stock 0) for the feed, this is not used in this free version of the plugin"
+msgstr "Aici puteti vedea ce produse sunt excluse (setarea stocului 0) pentru feed, acesta nu este folosit in aceasta versiune gratuita a pluginului"
+
+msgid "Exclude by SKU"
+msgstr "Excludeti dupa SKU"
+
+msgid "Cnt"
+msgstr ""
+
+msgid "Sku"
+msgstr ""
+
+msgid "Stock"
+msgstr "Stoc"
+
+msgid "Exclude by Weight"
+msgstr "Excludeti dupa greutate"
+
+msgid "Weight"
+msgstr "Greutate"
+
+msgid "Exclude by Price"
+msgstr "Excludeti dupa pret"
+
+msgid "Price"
+msgstr "Pret"
+
+msgid "Exclude by Stock lower"
+msgstr "Excludeti prin stocul mai mic"
+
+msgid "Here you can map eMag product families with WC product attributes (variations), this map is not used for the products CSV Feed, it is used only for sending products via the eMag API"
+msgstr "Aici puteti mapa familiile de produse eMag cu atribute de produse WC (variatii), aceasta harta nu este utilizata pentru Feed CSV de produse, este folosita numai pentru trimiterea produselor prin API-ul eMag"
+
+msgid "eMag Family"
+msgstr ""
+
+msgid "Characteristics"
+msgstr "Caracteristici"
+
+msgid "No attributes defined"
+msgstr "Nu au fost definite atribute"
+
+msgid "Free Version"
+msgstr "Versiune gratuita"
+
+msgid "The plugin works with the eMag Romania, Hungary and Bulgaria Marketplaces, set the API Endpoint and add your API user name and password to get the plugin set up, the API Endpoint URL is found in the API documentation PDF, your API username is found in the marketplace account under Account > Profile > Technical details tab in the section of IP Addresses there is a username column. Your API password is the same as one with which you log in in the marketplace account, if it seams that the password is wrong try this little trick, log out from the marketplace and when you see your password autocompleted by the browser right click on it, inspect element and delete the type=\"password\" attribute so it gets displayed"
+msgstr "Pluginul functioneaza cu pietele eMag Romania, Ungaria si Bulgaria, setati API Endpoint si adaugati numele dvs. de utilizator API si parola pentru a configura pluginul, URL-ul API Endpoint se gaseste in documentatia API PDF, numele dvs. de utilizator API se gaseste in contul de piata din Cont > Profil > fila Detalii tehnice in sectiunea Adrese IP exista o coloana cu nume de utilizator. Parola dvs. API este aceeasi cu cea cu care va conectati in contul de piata, daca se pare ca parola este gresita, incercati acest mic truc, deconectati-va de la piata si cand vedeti parola completata automat de browser, faceti clic dreapta pe ea , inspectati elementul si stergeti atributul type=\"parola\" astfel incat sa fie afisat"
+
+msgid "After your account is set up click the Import Categories button, the plugin will import the marketplace categories for future use, the process is in the background, you can leave the page and it will still continue to import"
+msgstr "Dupa ce contul dvs. este configurat, faceti clic pe butonul Import Categorii, pluginul va importa categoriile de piata pentru utilizare ulterioara, procesul este in fundal, puteti parasi pagina si va continua importul"
+
+msgid "Please note that the plugin is meant to work with only one country, if you switch countries by changing the API Endpint Url you would need to reimport the categories and redo the category, characteristics and family maps"
+msgstr "Va rugam sa retineti ca pluginul este menit sa functioneze cu o singura tara, daca schimbati tari prin schimbarea adresei URL a API Endpint, va trebui sa reimportati categoriile si sa refaceti hartile de categorie, caracteristicile si familia"
+
+msgid "After you import the categories the next step is to configure the plugin which is done in the Configuration page, after the configuration is done you can send products to the marketplace from the WC product list page with the Bulk action: Sen to eMag, this action will add the selected products into the queue. When there are products to be sent to the marketplace in the queue in the Dashboard section after the Import Categories you can select the options for the products and trigger the Send to eMag process which runs in the background"
+msgstr "Dupa ce importati categoriile urmatorul pas este sa configurati plugin-ul care se face in pagina Configurare, dupa ce se face configurarea puteti trimite produse pe piata din pagina de lista de produse WC cu actiunea Bulk: Sen to eMag, aceasta actiune va adauga produsele selectate in coada. Atunci cand exista produse care urmeaza sa fie trimise pe piata in coada din sectiunea Tablou de bord dupa categoriile de import, puteti selecta optiunile pentru produse si puteti declansa procesul Trimitere la eMag care ruleaza in fundal"
+
+msgid "Here you need to set up the system of sending products to the marketplace, firstly you should load the vat rate, handling times and save your desired options. Make sure you set the correct percentage of 'Emag product price alteration' this is the percent added to the product sale price excluding tax that will be sent to the marketplace, configure the other marketplace related prices if needed. The Brand and Ean that get sent to the marketplace can be selected from the product postmetas select boxes, you can add multiple if you use different sources for your products, the plugin will use the postmeta found with a value. At the bottom there is the functionality to select image sizes for categories, this is used if there are categories in marketplace that need a different image aspect ratio, in example the Fashion category"
+msgstr "Aici trebuie sa configurati sistemul de trimitere a produselor catre piata, in primul rand ar trebui sa incarcati cota de TVA, timpii de manipulare si sa salvati optiunile dorite. Asigurati-va ca setati procentul corect de „Modificare pret produs Emag”, acesta este procentul adaugat la pretul de vanzare al produsului fara taxe care va fi trimis pe piata, configurati celelalte preturi aferente pietei, daca este necesar. Marca si Ean-ul care sunt trimise pe piata pot fi selectate din casetele de selectare postmetas de produs, puteti adauga mai multe daca folositi surse diferite pentru produsele dvs., pluginul va folosi postmeta gasit cu o valoare. In partea de jos exista functionalitatea de selectare a dimensiunilor imaginii pentru categorii, aceasta este folosita daca exista categorii pe piata care au nevoie de un raport de aspect al imaginii diferit, de exemplu categoria Fashion"
+
+msgid "Sending products to the marketplace"
+msgstr "Trimiterea produselor catre piata"
+
+msgid "After the configuration is done you can send products to the marketplace from the WC products page using the Bulk action 'Send to eMag' which will add the products into the queue and from the 'Dashboard' page you can trigger the sending process"
+msgstr "Dupa finalizarea configuratiei, puteti trimite produse pe piata de pe pagina de produse WC folosind actiunea in bloc „Trimite la eMag”, care va adauga produsele in coada, iar din pagina „Tabloul de bord” puteti declansa procesul de trimitere"
+
+msgid "Dropshipping"
+msgstr ""
+
+msgid "system will make visible three new tabs 'Categories', 'Category', 'Exclude', make visible the CSV Feed link, and enable other options in 'Configuration' these are used when you want to send many products to the marketplace, have a system that updates/add products to your WC shop and you do not use product variations (the marketplace feed doesn't have the possibility of creating families), you should use this plugin like this only if you do not use product variations, these features are only available in the Pro version"
+msgstr "sistemul va face vizibile trei noi file „Categorii”, „Categorie”, „Exclude”, va face vizibil linkul Feed CSV si va activa alte optiuni in „Configurare”, acestea sunt utilizate atunci cand doriti sa trimiteti multe produse pe piata, sa aveti o sistem care actualizeaza/adauga produse in magazinul tau WC si nu folosesti variatii de produs (feed-ul pietei nu are posibilitatea de a crea familii), ar trebui sa folosesti acest plugin in acest fel numai daca nu folosesti variatii de produs, aceste caracteristici sunt disponibile numai in versiunea Pro"
+
+msgid "After you have set up the plugin and tested the output to be sent to the marketplace set the 'Send to eMag Live' to Yes, if this option is set to No the Send to eMag process will only save the output in Logs"
+msgstr "Dupa ce ati configurat pluginul si ati testat rezultatul care urmeaza sa fie trimis pe piata, setati „Trimite la eMag Live” la Da, daca aceasta optiune este setata la Nu, procesul Trimitere la eMag va salva numai rezultatul in jurnale"
+
+msgid "This page is used for real time BuyButton check and price override for product offers in the marketplace, this is a Pro version feature only"
+msgstr "Aceasta pagina este utilizata pentru verificarea BuyButton in timp real si pentru anularea pretului pentru ofertele de produse de pe piata, aceasta este doar o functie a versiunii Pro"
+
+msgid "In this page you need to set up the WC Category and the marketplace categories associations, if you do not have access to a category you would need to request it from the marketplace, in the Access column you can see the access status, from the last Categories import from Dashboard"
+msgstr "In aceasta pagina trebuie sa configurati Categoria WC si asociatiile categoriilor marketplace, daca nu aveti acces la o categorie ar trebui sa o solicitati din marketplace, in coloana Acces puteti vedea starea accesului, din ultima Import de categorii din Dashboard"
+
+msgid "Here you need to associate the WC Attributes and Custom Attributes with the marketplace characteristics, there is an auto load functions 'Load defaults' button that will search for same names of attributes and characteristics, you can also add multiple attributes to a marketplace characteristic, this is used when you have a WC attribute let's say Color and you associate it with a Color marketplace characteristic, but you also have a WC custom attribute that needs to be associated with the same marketplace characteristic. Please note that you need to click on the 'Toggle Optional' text to see the optional characteristics"
+msgstr "Aici trebuie sa asociati atributele WC si atributele personalizate cu caracteristicile pietei, exista un buton „Incarcare implicite” pentru functii de incarcare automata care va cauta aceleasi nume de atribute si caracteristici, de asemenea, puteti adauga mai multe atribute la o caracteristica a pietei, aceasta este folosit atunci cand aveti un atribut WC, sa spunem Culoare si il asociati cu o caracteristica a pietei de culoare, dar aveti si un atribut personalizat WC care trebuie asociat cu aceeasi caracteristica a pietei. Va rugam sa retineti ca trebuie sa faceti clic pe textul 'Toggle Optional' pentru a vedea caracteristicile optionale"
+
+msgid "If you are using WC product variations you need to associate them with the marketplace families, associate here the WC product attributes with the marketplace family, being it a single or multiple type, you can also see here what characteristics are required for the family"
+msgstr "Daca utilizati variante de produse WC, trebuie sa le asociati cu familiile de piata, asociati aici atributele produsului WC cu familia de piata, fiind de tip unic sau multiplu, puteti vedea si aici ce caracteristici sunt necesare pentru familie"
+
+msgid "Here you can see various system logs and also the output to be sent to the marketplace when using the Send to eMag function, before setting the plugin in live mode inspect that the data to be sent is correct, you can clear logs manually from the 'Clear logs button, otherwise logs get deleted after 60 days"
+msgstr "Aici puteti vedea diverse jurnalele de sistem si, de asemenea, rezultatele care trebuie trimise pe piata atunci cand utilizati functia Trimitere la eMag, inainte de a seta pluginul in modul live, verificati daca datele care urmeaza sa fie trimise sunt corecte, puteti sterge jurnalele manual din 'Butonul Sterge jurnale, altfel jurnalele sunt sterse dupa 60 de zile"
+
+msgid "Need more help"
+msgstr "Am nevoie de mai mult ajutor"
+
+msgid "Contact us"
+msgstr "Contactati-ne"
+
+msgid "Pro Extra Features"
+msgstr "Pro Functii suplimentare"
+
+msgid "Use the marketplace commissions to calculate the exact price to be used thus after the commissions you get the same profit as on your shop with the possibility to add an extra percent to the profit. Use the 'Prices' page to override prices in real time and get the current Buy Button Rank. Use the Update CSV Feed, in the case you want to mass update product prices and stock"
+msgstr "Foloseste comisioanele de pe piata pentru a calcula pretul exact care trebuie utilizat astfel, dupa comisioane obtii acelasi profit ca si pe magazinul tau cu posibilitatea de a adauga un procent suplimentar la profit. Utilizati pagina „Preturi” pentru a inlocui preturile in timp real si pentru a obtine clasamentul actual al butonului Cumparati. Utilizati fluxul de actualizare CSV, in cazul in care doriti sa actualizati in masa preturile produselor si stocul"
+
+msgid "Import products"
+msgstr "Importati produse"
+
+msgid "Import the products data from the marketplace to be used on various features like commissions, Buy Button Rank log, handle product ID conflicts in the case you used a third party system to send your products to the marketplace and it used other IDs and other features that require the remote data to be at hand. Create products from the marketplace in your WC installation, useful when you already have data in the marketplace and you want to create a website to sell your products"
+msgstr "Importati datele despre produse de pe piata pentru a fi utilizate pentru diverse functii, cum ar fi comisioane, jurnalul de clasificare a butonului Cumparati, gestionati conflictele de identificare a produselor in cazul in care ati folosit un sistem terta parte pentru a va trimite produsele pe piata si a folosit alte ID-uri si alte caracteristici care necesita ca datele de la distanta sa fie la indemana. Creati produse din piata in instalatia dvs. de WC, utile atunci cand aveti deja date in piata si doriti sa creati un site web pentru a va vinde produsele"
+
+msgid "Import and Cancel orders"
+msgstr "Import si anulare comenzi"
+
+msgid "Import orders from the marketplace and manage the stock, manually and via the marketplace New Order Callback. Cancel orders on WC and update the stock, set 0 shipping for imported orders by the marketplace shipping method, option to disable the voucher values import into the order"
+msgstr "Importati comenzi de pe piata si gestionati stocul, manual si prin intermediul pietei New Order Callback. Anulati comenzile pe WC si actualizati stocul, setati 0 expediere pentru comenzile importate prin metoda de livrare a pietei, optiunea de a dezactiva importul valorilor voucherului in comanda"
+
+msgid "Use the plugin in dropshipping mode to send thousands of products to the marketplace using the CSV Feed, update stock and prices using the Update CSV Feed, options to do not override data sent to the marketplace, get the marketplace category suggestions for products (this can be automized by using a program like TinyTask), associate the products with the categories to be used in the CSV Feed. Options to exclude by setting stock 0 by SKU, Weight, Price and Stock. This system should not be used if you are using product variations because the marketplace does not have this function for the Feed"
+msgstr "Utilizați pluginul în modul dropshipping pentru a trimite mii de produse pe piață utilizând feedul CSV, actualizați stocul și prețurile utilizând actualizarea feedului CSV, opțiuni pentru a nu înlocui datele trimise pe piață, obțineți sugestii pentru categoriile pieței pentru produse (acest lucru poate fi automatizat prin utilizarea unui program precum TinyTask), asociați produsele cu categoriile care vor fi utilizate în Feed-ul CSV. Opțiuni de excludere prin setarea stocului 0 după SKU, Greutate, Preț și Stoc. Acest sistem nu trebuie utilizat dacă utilizați variații de produs, deoarece piața nu are această funcție pentru Feed"
+
+msgid "Updates"
+msgstr "Actualizari"
+
+msgid "Free updates of the Pro version of the plugin for one year"
+msgstr "Actualizari gratuite ale versiunii Pro a pluginului timp de un an"
+
+msgid "Support"
+msgstr "Sprijin"
+
+msgid "Free support for the Pro version for one year"
+msgstr "Suport gratuit pentru versiunea Pro timp de un an"
+
+msgid "Why Pro"
+msgstr "De ce Pro"
+
+msgid "Better than using a third party service on which you pay monthly, pay for this plugin once at the price of oher parties two months fee, after one year buy it again only if you need to get the latest version of the plugin, in the case something major changed"
+msgstr "Mai bine decat sa folosesti un serviciu terta parte pe care platesti lunar, platesti pentru acest plugin o data la pretul celorlalte parti taxa de doua luni, dupa un an cumpara-l din nou numai daca trebuie sa obtii cea mai recenta versiune a pluginului, in cazul in care ceva major s-a schimbat"
+
+msgid "Go Pro"
+msgstr ""
+
+msgid "Here you can see system logs"
+msgstr "Aici puteti vedea jurnalele de sistem"
+
+msgid "Are you sure you want to delete all logs?"
+msgstr "Sunteti sigur ca doriti sa stergeti toate jurnalele?"
+
+msgid "Clear logs"
+msgstr "Stergeti jurnalele"
+
+msgid "Page"
+msgstr "Pagina"
+
+msgid "Per Page"
+msgstr "Per Pagina"
+
+msgid "Here you can update product prices in real time and save it as a price override for the feeds"
+msgstr "Aici puteti actualiza preturile produselor in timp real si le puteti salva ca inlocuire a pretului pentru fluxuri"
+
+msgid "Total products"
+msgstr "Total produse"
+
+msgid "Total with price overriden"
+msgstr "Total cu suprasolicitarea pretului"
+
+msgid "Buy Button"
+msgstr "Butonul Cumpara"
+
+msgid "Search by PS ID, eMag ID, PNK, EAN, Reference"
+msgstr "Cautare dupa ID PS, ID eMag, PNK, EAN, Referinta"
+
+msgid "Reset"
+msgstr "Resetare"
+
+msgid "SKU/PNK"
+msgstr ""
+
+msgid "Override"
+msgstr "Anulare"
+
+msgid "Refresh BB"
+msgstr "Actualizeaza BB"
+
+msgid "Remove"
+msgstr "Indepartati"
+
+msgid "Refresh"
+msgstr "Reimprospatare"
+
+msgid "Remove All price overrides from this page Pro"
+msgstr "Elimina toate suprascrierile de pret din aceasta pagina Pro"
+
+msgid "Bizzmags Marketplace"
+msgstr "Bizzmags Marketplace"
+
+msgid "The API Endpoint does not seam right"
+msgstr "Punctul final API nu se adauga corect"
+
+msgid "Saved API configuration"
+msgstr "Configuratie API salvata"
+
+msgid "Emag API credentials saved with success"
+msgstr "Acreditarile Emag API au fost salvate cu succes"
+
+msgid "Counted"
+msgstr "Numarat"
+
+msgid "categories"
+msgstr "categorii"
+
+msgid "Emag API Endoint, API user and password are required"
+msgstr "Emag API Endoint, utilizator API si parola sunt necesare"
+
+msgid "Seams that the API endpoint is not set"
+msgstr "Seams ca punctul final API nu este setat"
+
+msgid "Cancelled the Emag categories import process"
+msgstr "Anulat procesul de import de categorii Emag"
+
+msgid "Deleted the imported Emag categories"
+msgstr "S-au sters categoriile Emag importate"
+
+msgid "Triggered the Emag categories import process"
+msgstr "A declansat procesul de import de categorii Emag"
+
+msgid "Set the import Emag categories background process, the import will start shortly"
+msgstr "Setati procesul de fundal pentru importul categoriilor Emag, importul va incepe in scurt timp"
+
+msgid "Error in triggering the Emag categories import process"
+msgstr "Eroare la declansarea procesului de import de categorii Emag"
+
+msgid "Error in setting the import Emag categories background process, please contact support"
+msgstr "Eroare la setarea procesului de importare a categoriilor Emag de fundal, va rugam sa contactati asistenta"
+
+msgid "Import categories db error"
+msgstr "Eroare db de import categorii"
+
+msgid "Finished the Emag categories import process"
+msgstr "S-a incheiat procesul de import de categorii Emag"
+
+msgid "Automatically added eMag category map"
+msgstr "Harta categoriei eMag adaugata automat"
+
+msgid "Added eMag category map"
+msgstr "A fost adaugata harta categoriei eMag"
+
+msgid "Emag category map saved with success"
+msgstr "Harta categoriei Emag salvata cu succes"
+
+msgid "Removed eMag category map"
+msgstr "Harta categoriei eMag eliminata"
+
+msgid "Error"
+msgstr "Eroare"
+
+msgid "Saved characteristic map"
+msgstr "Harta caracteristica salvata"
+
+msgid "Saved"
+msgstr "Salvat"
+
+msgid "Missing char id"
+msgstr "Lipseste char id"
+
+msgid "Loaded default characteristic map for"
+msgstr "Harta caracteristica implicita incarcata pentru"
+
+msgid "Loaded default characteristic map"
+msgstr "Harta caracteristica implicita incarcata"
+
+msgid "Did not find any matches"
+msgstr "Nu am gasit nicio potrivire"
+
+msgid "Saved family map"
+msgstr "Harta familiei salvata"
+
+msgid "Cancelled the Send to eMag process"
+msgstr "S-a anulat procesul de trimitere la eMag"
+
+msgid "Triggered the Send to eMag process LIVE"
+msgstr "A declansat procesul Trimitere la eMag LIVE"
+
+msgid "Triggered the Send to eMag process TEST"
+msgstr "Testul procesului de trimitere la eMag a fost declansat"
+
+msgid "Set the Send to eMag background process, it will start shortly"
+msgstr "Setati procesul de fundal Trimitere la eMag, acesta va incepe in scurt timp"
+
+msgid "Error in triggering the Send to eMag process"
+msgstr "Eroare la declansarea procesului Trimitere catre eMag"
+
+msgid "Error in setting the Send to eMag background process, please contact support"
+msgstr "Eroare la setarea procesului de fundal Trimitere la eMag, va rugam sa contactati asistenta"
+
+msgid "Could not load product"
+msgstr "Nu s-a putut incarca produsul"
+
+msgid "Error: Cannot load product category, please set the category map correctly"
+msgstr "Eroare: Nu se poate incarca categoria de produse, setati corect harta categoriei"
+
+msgid "Warning: did not find characteristic map for"
+msgstr "Atentie: nu am gasit harta caracteristica pentru"
+
+msgid "Warning: Missing mandatory characteristics from family for"
+msgstr "Avertisment: Lipsesc caracteristici obligatorii din familie pt"
+
+msgid "Error: Missing family map"
+msgstr "Eroare: lipseste harta familiei"
+
+msgid "Warning: Missing mandatory characteristics for"
+msgstr "Avertisment: Lipsesc caracteristici obligatorii pentru"
+
+msgid "Removed extra char id"
+msgstr "S-a eliminat codul de caracter suplimentar"
+
+msgid "Warning: Missing product title, SKIP for"
+msgstr "Avertisment: Lipseste titlul produsului, SKIP pentru"
+
+msgid "Warning: Missing product part_number, SKIP for"
+msgstr "Avertisment: lipseste numarul_partea produsului, SKIP pentru"
+
+msgid "Warning: Missing product brand, SKIP for"
+msgstr "Avertisment: Lipseste marca produsului, SKIP pentru"
+
+msgid "Warning: Missing product image, SKIP for"
+msgstr "Avertisment: lipseste imaginea produsului, SKIP pentru"
+
+msgid "Warning: Missing product waranty, SKIP for"
+msgstr "Avertisment: Lipseste garantia produsului, SKIP pentru"
+
+msgid "Warning: Missing product ean, SKIP for"
+msgstr "Avertisment: Lipseste produsul, SKIP pentru"
+
+msgid "Warning: Missing product status, SKIP for"
+msgstr "Avertisment: lipseste starea produsului, SKIP pentru"
+
+msgid "Warning: Missing product sale_price, SKIP for"
+msgstr "Avertisment: lipseste pretul de vanzare al produsului, SKIP pentru"
+
+msgid "Warning: Missing product min_sale_price, SKIP for"
+msgstr "Avertisment: lipseste produsul min_sale_price, SKIP pentru"
+
+msgid "Warning: Missing product max_sale_price, SKIP for"
+msgstr "Avertisment: lipseste pretul_de_vanzare a produsului, SKIP pentru"
+
+msgid "Warning: Missing product stock, SKIP for"
+msgstr "Avertisment: Lipseste stocul de produse, SKIP pentru"
+
+msgid "Warning: Missing product handling_time, SKIP for"
+msgstr "Avertisment: lipseste timpul de manipulare a produsului, SKIP pentru"
+
+msgid "Warning: Missing product vat_id, SKIP for"
+msgstr "Avertisment: Lipseste produsul vat_id, SKIP pentru"
+
+msgid "Sent product to eMag with Success"
+msgstr "Produs trimis la eMag cu succes"
+
+msgid "Error in sending product to eMag with"
+msgstr "Eroare la trimiterea produsului catre eMag cu"
+
+msgid "Sent to eMag batch of"
+msgstr "Trimis catre lotul eMag de"
+
+msgid "products"
+msgstr "produse"
+
+msgid "Error in rescheduling the Send to eMag batch process"
+msgstr "Eroare la reprogramarea procesului de lot Trimitere la eMag"
+
+msgid "Finished the Send to eMag process"
+msgstr "S-a incheiat procesul de trimitere la eMag"
+
+msgid "Nothing to send to emag"
+msgstr "Nimic de trimis la emag"
+
+msgid "No products in send to emag queue"
+msgstr "Niciun produs trimis la coada emag"
+
+msgid "Error in setting up the Send to eMag batch process"
+msgstr "Eroare la configurarea procesului de lot Trimitere la eMag"
+
+msgid "Error in clearing all logs"
+msgstr "Eroare la stergerea tuturor jurnalelor"
+
+msgid "Cleared all logs with success"
+msgstr "S-au sters toate jurnalele cu succes"
